@@ -2,4 +2,4 @@
 
 ### Help
 
-<img src="./help.gif" alt="help video" height="720">
+<img src="./help.gif" alt="help video" width="720">
